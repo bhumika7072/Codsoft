@@ -14,7 +14,7 @@ desired destination.
 
 Steps to create landing page using html and css are:
 
-Create the basic layout of the landing page using HTML that includes a basic nav bar, a basic homepage a body section, and a signup page.
-Style the layout created by HTML using CSS and link the CSS file to the HTML file.
-Create an index.js file and write the javascript code to display the nav bar in a sliding menu when the website is viewed on small screens
+1. Create the basic layout of the landing page using HTML that includes a basic nav bar, a basic homepage a body section, and a signup page.
+2. Style the layout created by HTML using CSS and link the CSS file to the HTML file.
+3. Create an index.js file and write the javascript code to display the nav bar in a sliding menu when the website is viewed on small screens
 
